@@ -60,11 +60,6 @@ EC2 is a great platform for hosting websites and web apps, but what happens when
 15) Getting Started With Windows Server On Amazon EC2:
 Launching our first Windows EC2 instance on Amazon Web Services. This learning activity will focus on the basic concepts of EC2 as well as using automation and powershell to "bootstrap" a web server. We'll learn about elastic IP addresses, security groups, and connecting to the Windows 2012 R2 EC2 instance.
 
-16) 
-
-??) Shared Responsibility Model:
+16) Shared Responsibility Model:
 Security and compliance is a shared responsibility between AWS and the customer. This shared model helps relieve your operational burden as AWS operates, manages, and controls the components from the host operating system and virtualization layer down to the physical security of the facilities in which the service operates. AWS is responsible for protecting the infrastructure that runs all services offered in the AWS Cloud. This infrastructure is composed of the hardware, software, networking, and facilities that run AWS Cloud services. 
 The Customer responsibility and management of the following: The security configuration of the data plane, including the configuration of the security groups that allow traffic to pass from the Amazon EKS control plane into the customer VPC. The configuration of the worker nodes and the containers themselves. The worker node guest operating system (including updates and security patches). Other associated application software: Setting up and managing network controls, such as firewall rules. Managing platform-level identity and access management, either with or in addition to IAM
-
- 
-
