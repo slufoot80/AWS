@@ -1,7 +1,7 @@
 # AWS
 AWS course requirements and a list of completed hands on activities
 
-The labs listed below may be part of the AWS-CSA course and some of them may not be required for the course and were completed for the sole purpose to gain the hands on experience with Amazon Web Services.
+The labs listed below may be part of the AWS-CSA course and some of them may not be required for the course and were completed for the sole purpose for gaining the hands on experience with Amazon Web Services.
 
  - Amazon S3 Bucket Policies
  - Amazon S3 Bucket Policies
