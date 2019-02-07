@@ -50,4 +50,3 @@ The labs listed below may be part of the AWS-CSA course and some of them may not
  - S3 Data Management with Versioning and Lifecycle Rules
  - Using Custom CloudWatch Dashboards for Visual AWS Resource Monitoring
  - Working with EBS
-
