@@ -1,8 +1,9 @@
 # AWS
 AWS course requirements and a list of completed hands on activities
 
-The labs listed below may be part of the AWS-CSA course and some of them may not be required for the course and were completed for the sole purpose for gaining the hands on experience with Amazon Web Services.
-- Amazon S3 Bucket Policies
+The labs listed below may be part of the Amazon Web Services Certified Solutions Architect course, and some of them may not be required for the course, these labs were completed for the sole purpose for gaining the hands on experience with Amazon Web Services, most of these labs were completed multiple times.
+
+ - Amazon S3 Bucket Policies
  - Amazon S3 Permissions
  - Amazon S3 Versioning and Lifecycle Policies
  - Automating EBS Snapshot Creation with CloudWatch Events (including SNS notifications)
