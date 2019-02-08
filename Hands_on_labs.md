@@ -3,19 +3,19 @@ AWS course requirements and a list of completed hands on activities
 
 The labs listed below may be part of the Amazon Web Services Certified Solutions Architect course, and some of them may not be required for the course, these labs were completed for the sole purpose for gaining the hands on experience with Amazon Web Services, most of these labs were completed multiple times.
 
- - Amazon S3 Bucket Policies
- - Amazon S3 Permissions
- - Amazon S3 Versioning and Lifecycle Policies
- - Automating EBS Snapshot Creation with CloudWatch Events (including SNS notifications)
+ - Amazon S3 Bucket Policies (Simple Storage Service)
+ - Amazon S3 Permissions (Simple Storage Service)
+ - Amazon S3 Versioning and Lifecycle Policies (Simple Storage Service)
+ - Automating EBS Snapshot Creation with CloudWatch Events (including SNS notifications) 
  - Auto Scaling and High Availability
  - AWS Access Control Alerts with CloudWatch and CloudTrail
- - AWS EC2 AMI and EBS Backup and Restore Methods
- - AWS EC2 Connectivity Troubleshooting Scenario
+ - AWS EC2 AMI and EBS Backup and Restore Methods (Elastic Compute Cloud)
+ - AWS EC2 Connectivity Troubleshooting Scenario (Elastic Compute Cloud)
  - AWS ELB Connectivity Troubleshooting Scenario
  - AWS Identity and Access Management (IAM)
- - AWS Security Essentials - KMS Integration with S3
+ - AWS Security Essentials - KMS Integration with S3 (Key Management Services)
  - AWS Security Essentials - Securing Connections with a Bastion Host
- - AWS Security Essentials - VPC Endpoints and Securing S3
+ - AWS Security Essentials - VPC Endpoints and Securing S3 
  - Building an AWS VPC from Scratch
  - Building a Three Tier Network VPC From Scratch in AWS
  - Configuring Amazon S3 Buckets to host a Static Website with a Custom Domain
@@ -23,9 +23,9 @@ The labs listed below may be part of the Amazon Web Services Certified Solutions
  - Configuring AWS Backup and Archiving Solutions in S3 with Lifecycle Policies and Versioning
  - Configuring SNS Push Notifications on S3 Bucket Events inside of the AWS Console
  - Create a Classic Elastic Load Balancer (ELB)
- - Create a Custom AMI in AWS
+ - Create a Custom AMI in AWS (Amazon Machine Image)
  - Create an Auto Scaling Group and Application Load Balancer in AWS
- - Creating a NAT Gateway in AWS
+ - Creating a NAT Gateway in AWS (Network Address Translation)
  - Creating and Configuring Secure AWS RDS Instances with Read Replicas and Backup Solutions
  - Creating and Subscribing to AWS SNS Topics
  - Creating and Testing a Peering Connection with a Private VPC
@@ -40,14 +40,14 @@ The labs listed below may be part of the Amazon Web Services Certified Solutions
  - Getting Started With Windows Server On Amazon EC2
  - Implementing VPC Peering on AWS
  - Introduction To Amazon S3 (Simple Storage Service)
- - Introduction to EC2
+ - Introduction to EC2 (Elastice Compute Cloud)
  - Introduction to the Application Load Balancer
  - Managing DNS Records with AWS Route 53
- - Preparing an Instance for a Custom AMI
+ - Preparing an Instance for a Custom AMI (Amazon Machine Image)
  - Provisioning a Linux EC2 Instance in AWS
  - Resizing Root AWS EBS Volumes to Increase Performance
  - Restore an RDS Instance to a Point in Time using Snapshots
  - Route 53 DNS Failover of Website from EC2 Instance to Static Website Hosted on S3
  - S3 Data Management with Versioning and Lifecycle Rules
  - Using Custom CloudWatch Dashboards for Visual AWS Resource Monitoring
- - Working with EBS
+ - Working with EBS (Elastic Block Storage)
