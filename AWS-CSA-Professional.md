@@ -12,6 +12,7 @@ AWS And General IT Knowledge
 - Disaster Recovery And Fail-Over Strategies
 - Application Migration Plans to AWS
 - Deployment and Management
+
 Enterprise Account Management
 - Consolidated Billing
 - Consolidated Billing and EC2 Reserved Instances
