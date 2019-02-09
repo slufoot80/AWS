@@ -26,3 +26,22 @@ Enterprise Account Management
 - AWS Config
 - Budgets and CloudWatch Alarms
 
+Amazon CloudTrail
+- Amazon CloudTrail Overview
+- Configuring CloudTrail in the Console
+- Monitoring CloudTrail Events with CloudWatch
+
+AWS Key Management Service
+- AWS KMS Overview
+- Using The CLI to Encrypt and Decrypt Data with the CMK
+Amazon Kinesis
+
+- Amazon Kinesis Overview
+- Kinesis Mobile IOT Scenario Example
+Amazon EC2 And Design Patterns
+
+- Integrating CloudWatch Logging with EC2
+- Real-Time Processing of Log Files with Amazon Kinesis
+- Protecting Production Resources 
+- Migrating EC2 Resources to Another Region
+- EC2 Backup Strategies
