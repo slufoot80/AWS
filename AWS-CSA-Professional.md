@@ -45,3 +45,33 @@ Amazon EC2 And Design Patterns
 - Protecting Production Resources 
 - Migrating EC2 Resources to Another Region
 - EC2 Backup Strategies
+
+Virtual Private Cloud (VPC)
+- Network and Data Security
+- Network Monitoring with VPC Flow Logs
+- Extending On-Premise Networks with VPN
+- Using Directory Service to Connect Hybrid Architectures
+- Security Zones
+- Understanding AWS IP Subnet Reservations
+
+AWS Direct Connect
+- Working with AWS Direct Connect Virtual Interfaces
+- Accessing Remote Regions
+Amazon ElastiCache
+- ElastiCache Overview
+- ElastiCache: Memchache
+- ElastiCache: Redis 
+Amazon Redshift
+- Redshift Overview
+Amazon CloudFront
+- CloudFront Key Concepts and Overview
+- Dynamic Content with CloudFront
+- CloudFront Reporting
+- CloudFront Security
+- CloudFront Performance Considerations
+- Streaming Media with CloudFront
+- Forcing HTTPS to The Origin
+- Creating a Multi-Region CloudFront Solution
+Amazon Elastic Transcoder
+- ElasticTranscoder Overview
+- Streaming With S3, CloudFront, and Elastic Transcoder
