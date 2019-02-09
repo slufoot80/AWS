@@ -1,7 +1,7 @@
 # AWS
 AWS course requirements and a list of completed hands on activities
 
-AWS And General IT Knowledge   
+AWS And General IT Knowledge  
 - Security Features that AWS Provides and Best Practices
 - Able to Design and Implement for Elasticity and Scalability
 - Working with VPC DNS
@@ -34,12 +34,12 @@ Amazon CloudTrail
 AWS Key Management Service
 - AWS KMS Overview
 - Using The CLI to Encrypt and Decrypt Data with the CMK
-Amazon Kinesis
 
+Amazon Kinesis
 - Amazon Kinesis Overview
 - Kinesis Mobile IOT Scenario Example
-Amazon EC2 And Design Patterns
 
+Amazon EC2 And Design Patterns
 - Integrating CloudWatch Logging with EC2
 - Real-Time Processing of Log Files with Amazon Kinesis
 - Protecting Production Resources 
