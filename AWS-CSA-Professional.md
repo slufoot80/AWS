@@ -75,6 +75,7 @@ Amazon CloudFront
 Amazon Elastic Transcoder
 - ElasticTranscoder Overview
 - Streaming With S3, CloudFront, and Elastic Transcoder
+
 AWS Data Pipeline
 - Introduction to Data Pipeline
 - Using Data Pipeline to Replicate DynamoDB Data Across Regions
