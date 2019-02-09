@@ -75,3 +75,26 @@ Amazon CloudFront
 Amazon Elastic Transcoder
 - ElasticTranscoder Overview
 - Streaming With S3, CloudFront, and Elastic Transcoder
+AWS Data Pipeline
+- Introduction to Data Pipeline
+- Using Data Pipeline to Replicate DynamoDB Data Across Regions
+Amazon RDS
+- RDS Overview and Security Options
+- Oracle DB on RDS
+- MSSQL DB on RDS
+Amazon CloudSearch
+- Amazon CloudSearch
+Amazon EMR
+- Amazon EMR
+Deployment Concepts On AWS Services
+- CloudFormation
+- Cloudformation Hands-on
+- OpsWorks
+- OpsWorks Hands-on
+Amazon SQS
+- Message Priority
+- Batch Processing Job Observer
+DynamoDB
+- DynamoDB Overview and Some Design Patterns
+- Secondary Indexes
+- DynamoDB Multi-Region Replication
