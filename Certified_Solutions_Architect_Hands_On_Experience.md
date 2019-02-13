@@ -18,8 +18,7 @@ AWS list of completed hands on activities
     Demonstrate the ability to implement a highly available cloud solution, Demonstrate the ability to design fault tolerance in the application, Demonstrate the ability to design scalable systems, Demonstrate the ability to create and use Amazon Machine Images (AMI),Demonstrate the ability to identify the proper scalable configuration, Demonstrate the ability to configure and use the proper instance sizes within the configuration, Demonstrate the ability to monitor systems based off of performance, Demonstrate ability to configure security groups
 
 2) VPC and VPC Networking:
-
-    Build and Configure Virtual Private Clouds (VPCs), Demonstrate the ability to create a VPC, Demonstrate the ability to identify and configure VPC/Subnet requirements
+Build and Configure Virtual Private Clouds (VPCs), Demonstrate the ability to create a VPC, Demonstrate the ability to identify and configure VPC/Subnet requirements
 
 3) Configure Subnets and VPC Networking:
 Demonstrate the ability to identify and configure a NAT Gateway, Demonstrate the ability to identify and create public subnets,Demonstrate the ability to identify and create private subnets, Demonstrate the ability to configure subnet networking using given requirements
