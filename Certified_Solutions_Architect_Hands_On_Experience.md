@@ -19,11 +19,11 @@ AWS list of completed hands on activities
 
 2) VPC and VPC Networking:
 
-Build and Configure Virtual Private Clouds (VPCs), Demonstrate the ability to create a VPC, Demonstrate the ability to identify and configure VPC/Subnet requirements
+    Build and Configure Virtual Private Clouds (VPCs), Demonstrate the ability to create a VPC, Demonstrate the ability to identify and configure VPC/Subnet requirements
 
 3) Configure Subnets and VPC Networking:
 
-Demonstrate the ability to identify and configure a NAT Gateway, Demonstrate the ability to identify and create public subnets,Demonstrate the ability to identify and create private subnets, Demonstrate the ability to configure subnet networking using given requirements
+    Demonstrate the ability to identify and configure a NAT Gateway, Demonstrate the ability to identify and create public subnets,Demonstrate the ability to identify and create private subnets, Demonstrate the ability to configure subnet networking using given requirements
 
 4) Introduction to AWS Identity and Access Management (IAM):
 
