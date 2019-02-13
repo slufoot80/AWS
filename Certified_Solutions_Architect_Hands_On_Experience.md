@@ -15,10 +15,10 @@ The AWS Certified Solutions Architect course has prepared me in the following ar
 AWS list of completed hands on activities
 
 1) High Availability, Fault Tolerance, and Scalability - Implement Highly Available, Fault Tolerant, and Scalable Systems:
-Demonstrate the ability to implement a highly available cloud solution, Demonstrate the ability to design fault tolerance in the application, Demonstrate the ability to design scalable systems, Demonstrate the ability to create and use Amazon Machine Images (AMI),Demonstrate the ability to identify the proper scalable configuration, Demonstrate the ability to configure and use the proper instance sizes within the configuration, Demonstrate the ability to monitor systems based off of performance, Demonstrate ability to configure security groups
+    Demonstrate the ability to implement a highly available cloud solution, Demonstrate the ability to design fault tolerance in the application, Demonstrate the ability to design scalable systems, Demonstrate the ability to create and use Amazon Machine Images (AMI),Demonstrate the ability to identify the proper scalable configuration, Demonstrate the ability to configure and use the proper instance sizes within the configuration, Demonstrate the ability to monitor systems based off of performance, Demonstrate ability to configure security groups
 
 2) VPC and VPC Networking:
-Build and Configure Virtual Private Clouds (VPCs), Demonstrate the ability to create a VPC, Demonstrate the ability to identify and configure VPC/Subnet requirements
+    Build and Configure Virtual Private Clouds (VPCs), Demonstrate the ability to create a VPC, Demonstrate the ability to identify and configure VPC/Subnet requirements
 
 3) Configure Subnets and VPC Networking:
 Demonstrate the ability to identify and configure a NAT Gateway, Demonstrate the ability to identify and create public subnets,Demonstrate the ability to identify and create private subnets, Demonstrate the ability to configure subnet networking using given requirements
@@ -36,7 +36,7 @@ VPC's, Subnets, Internet Gateway, Route Tables, Nat Gateway, Network Access Cont
 7) Creating and Testing a Peering Connection with a Private VPC:
 Gained knowledge and experience with: Creating a VPC, Creating a VPC peering connection, Editing route tables for the peering  connection,Launching EC2 instances in each VPC, Testing the connection over SSH using private IP addresses
 
-8) Security Groups and Network ACLs: 
+8) Security Groups and Network ACLs:
 Security Groups and Network ACLs are the foundation of security in any AWS environment. Understanding the differences between them and the use cases for which they are best suited is crucial to ensuring your environment is as secure as possible to prevent attackers and other malicious actors from compromising your information,walk through the differences between Security Groups and NACL.
 
 9) Creating a NAT Gateway in AWS:
@@ -62,4 +62,5 @@ Launching our first Windows EC2 instance on Amazon Web Services. This learning a
 
 16) Shared Responsibility Model:
 Security and compliance is a shared responsibility between AWS and the customer. This shared model helps relieve your operational burden as AWS operates, manages, and controls the components from the host operating system and virtualization layer down to the physical security of the facilities in which the service operates. AWS is responsible for protecting the infrastructure that runs all services offered in the AWS Cloud. This infrastructure is composed of the hardware, software, networking, and facilities that run AWS Cloud services. 
-The Customer responsibility and management of the following: The security configuration of the data plane, including the configuration of the security groups that allow traffic to pass from the Amazon EKS control plane into the customer VPC. The configuration of the worker nodes and the containers themselves. The worker node guest operating system (including updates and security patches). Other associated application software: Setting up and managing network controls, such as firewall rules. Managing platform-level identity and access management, either with or in addition to IAM
+The Customer responsibility and management of the following: 
+The security configuration of the data plane, including the configuration of the security groups that allow traffic to pass from the Amazon EKS control plane into the customer VPC. The configuration of the worker nodes and the containers themselves. The worker node guest operating system (including updates and security patches). Other associated application software: Setting up and managing network controls, such as firewall rules. Managing platform-level identity and access management, either with or in addition to IAM
