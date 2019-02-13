@@ -77,7 +77,3 @@ VPC's, Subnets, Internet Gateway, Route Tables, Nat Gateway, Network Access Cont
 16) Shared Responsibility Model:
 
     Security and compliance is a shared responsibility between AWS and the customer. This shared model helps relieve your operational burden as AWS operates, manages, and controls the components from the host operating system and virtualization layer down to the physical security of the facilities in which the service operates. AWS is responsible for protecting the infrastructure that runs all services offered in the AWS Cloud. This infrastructure is composed of the hardware, software, networking, and facilities that run AWS Cloud services.
-    
-The Customer responsibility and management of the following:
-
-The security configuration of the data plane, including the configuration of the security groups that allow traffic to pass from the Amazon EKS control plane into the customer VPC. The configuration of the worker nodes and the containers themselves. The worker node guest operating system (including updates and security patches). Other associated application software: Setting up and managing network controls, such as firewall rules. Managing platform-level identity and access management, either with or in addition to IAM
