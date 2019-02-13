@@ -26,6 +26,7 @@ Build and Configure Virtual Private Clouds (VPCs), Demonstrate the ability to cr
 Demonstrate the ability to identify and configure a NAT Gateway, Demonstrate the ability to identify and create public subnets,Demonstrate the ability to identify and create private subnets, Demonstrate the ability to configure subnet networking using given requirements
 
 4) Introduction to AWS Identity and Access Management (IAM):
+
 Demonstrate the ability set up users and groups, and to protect your resources with access control policies. Also how to connect to other identity services to grant external users access to your AWS resources.
 
 5) Introduction to VPC: 
