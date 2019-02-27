@@ -3,52 +3,72 @@ AWS course requirements and a list of completed hands on activities
 
 The labs listed below may be part of the Amazon Web Services Certified Solutions Architect course, and some of them may not be required for the course, these labs were completed for the sole purpose for gaining the hands on experience with Amazon Web Services, most of these labs were completed multiple times.
 
- - Amazon S3 Bucket Policies (Simple Storage Service)
- - Amazon S3 Permissions (Simple Storage Service)
- - Amazon S3 Versioning and Lifecycle Policies (Simple Storage Service)
- - Automating EBS Snapshot Creation with CloudWatch Events (including SNS notifications) 
- - Auto Scaling and High Availability
- - AWS Access Control Alerts with CloudWatch and CloudTrail
- - AWS EC2 AMI and EBS Backup and Restore Methods (Elastic Compute Cloud)
- - AWS EC2 Connectivity Troubleshooting Scenario (Elastic Compute Cloud)
- - AWS ELB Connectivity Troubleshooting Scenario
- - AWS Identity and Access Management (IAM)
- - AWS Security Essentials - KMS Integration with S3 (Key Management Services)
- - AWS Security Essentials - Securing Connections with a Bastion Host
- - AWS Security Essentials - VPC Endpoints and Securing S3 
- - Building an AWS VPC from Scratch
- - Building a Three Tier Network VPC From Scratch in AWS
- - Configuring Amazon S3 Buckets to host a Static Website with a Custom Domain
- - Configuring an AWS CloudFront Distribution
- - Configuring AWS Backup and Archiving Solutions in S3 with Lifecycle Policies and Versioning
- - Configuring SNS Push Notifications on S3 Bucket Events inside of the AWS Console
- - Create a Classic Elastic Load Balancer (ELB)
- - Create a Custom AMI in AWS (Amazon Machine Image)
- - Create an Auto Scaling Group and Application Load Balancer in AWS
- - Creating a NAT Gateway in AWS (Network Address Translation)
- - Creating and Configuring Secure AWS RDS Instances with Read Replicas and Backup Solutions
- - Creating and Subscribing to AWS SNS Topics
- - Creating and Testing a Peering Connection with a Private VPC
- - Creating a Secure Web Application from Scratch with a Bastion Host, NAT Gateway and Application Load Balancer in AWS
- - Creating a Serverless Text Message Reminder Service in AWS using Lambda
- - Creating EC2 Amazon Machine Images (AMIs)
- - Deploying a Highly Available Web App and a Bastion Host in AWS
- - Deploying a Scalable Serverless API with AWS CloudFormation
- - Deploying a Simple Flask Application in the AWS Console with Elastic Beanstalk
- - Disaster Recovery Preparedness with AWS CloudFormation
- - Enabling MultiAZ and Deploying a Read Replica with AWS RDS
- - Getting Started With Windows Server On Amazon EC2
- - Implementing VPC Peering on AWS
- - Introduction To Amazon S3 (Simple Storage Service)
- - Introduction to EC2 (Elastice Compute Cloud)
- - Introduction to the Application Load Balancer
- - Managing DNS Records with AWS Route 53
- - Preparing an Instance for a Custom AMI (Amazon Machine Image)
- - Provisioning a Linux EC2 Instance in AWS
- - Resizing Root AWS EBS Volumes to Increase Performance
- - Restore an RDS Instance to a Point in Time using Snapshots
- - Route 53 DNS Failover of Website from EC2 Instance to Static Website Hosted on S3
- - S3 Data Management with Versioning and Lifecycle Rules
- - Security Groups and Network ACL's
- - Using Custom CloudWatch Dashboards for Visual AWS Resource Monitoring
- - Working with EBS (Elastic Block Storage)
+- Amazon S3 Bucket Policies (Simple Storage Service)
+- Amazon S3 Permissions (Simple Storage Service)
+- Amazon S3 Versioning and Lifecycle Policies (Simple Storage Service)
+- Analyzing Log Files with EMR
+- Automating EBS Snapshot Creation with CloudWatch Events (including SNS notifications)
+- Auto Scaling and High Availability
+- Auto Scaling Based off of SQS Message Queue Size
+- AWS Access Control Alerts with CloudWatch and CloudTrail
+- AWS EC2 AMI and EBS Backup and Restore Methods (Elastic Compute Cloud)
+- AWS EC2 Connectivity Troubleshooting Scenario (Elastic Compute Cloud)
+- AWS ELB Connectivity Troubleshooting Scenario
+- AWS Identity and Access Management (IAM)
+- AWS Security Essentials - KMS Integration with S3 (Key Management Services)
+- AWS Security Essentials - Securing Connections with a Bastion Host
+- AWS Security Essentials - VPC Endpoints and Securing S3
+- AWS Tagging and Resource Groups
+- Building an AWS VPC from Scratch
+- Building a Three Tier Network VPC From Scratch in AWS
+- Configuring Amazon S3 Buckets to host a Static Website with a Custom Domain
+- Configuring an AWS CloudFront Distribution
+- Configuring AWS Backup and Archiving Solutions in S3 with Lifecycle Policies and Versioning
+- Configuring EBS Volume RAID 0
+- Configuring Inter-Region VPC Peering in an AWS Environment
+- Configuring Proxy Protocol on an ELB and Nginx
+- Configuring SNS Push Notifications on S3 Bucket Events inside of the AWS Console
+- Configuring VPC DNS
+- Configuring VPC S3 Endpoints and NAT Gateways
+- Create a Classic Elastic Load Balancer (ELB)
+- Create a Custom AMI in AWS (Amazon Machine Image)
+- Create an Auto Scaling Group and Application Load Balancer in AWS
+- Creating an Application Load Balancer from the AWS CLI
+- Creating a NAT Gateway in AWS (Network Address Translation)
+- Creating and Configuring a Network Load Balancer in AWS
+- Creating and Configuring Secure AWS RDS Instances with Read Replicas and Backup Solutions
+- Creating and Subscribing to AWS SNS Topics
+- Creating and Testing a Peering Connection with a Private VPC
+- Creating a Secure Web Application from Scratch with a Bastion Host, NAT Gateway and Application Load Balancer in AWS
+- Creating a Serverless Text Message Reminder Service in AWS using Lambda
+- Creating Complex Routing Policies
+- Creating EC2 Amazon Machine Images (AMIs)
+- Deploying a Highly Available Web App and a Bastion Host in AWS
+- Deploying a Scalable Serverless API with AWS CloudFormation
+- Deploying a Simple Flask Application in the AWS Console with Elastic Beanstalk
+- Deploying Docker Containers on Amazon EC2 Instances
+- Disaster Recovery Preparedness with AWS CloudFormation
+- Disaster Recovery Techniques in AWS
+- Enabling MultiAZ and Deploying a Read Replica with AWS RDS
+- Getting Started With Windows Server On Amazon EC2
+- Implementing VPC Peering on AWS
+- Introduction To Amazon S3 (Simple Storage Service)
+- Introduction to EC2 (Elastice Compute Cloud)
+- Introduction to the Application Load Balancer
+- Managing DNS Records with AWS Route 53
+- Preparing an Instance for a Custom AMI (Amazon Machine Image)
+- Provisioning a Linux EC2 Instance in AWS
+- Resizing Root AWS EBS Volumes to Increase Performance
+- Restore an RDS Instance to a Point in Time using Snapshots
+- Restoring Files from EBS Volume Snapshots
+- Route 53 DNS Failover of Website from EC2 Instance to Static Website Hosted on S3
+- S3 Data Management with Versioning and Lifecycle Rules
+- Security Groups and Network ACL's
+- Streaming Video with Elastic Transcoder, S3, and CloudFront
+- Using AWS Config and CloudFormation to Monitor Resources
+- Using AWS WAF to Protect against Common Attacks
+- Using Cloudformation Templates to Create Complex Environments in AWS
+- Using Custom CloudWatch Dashboards for Visual AWS Resource Monitoring
+- Using Data Pipeline to Copy DynamoDB Data to S3
+- Working with EBS (Elastic Block Storage)
+- Working with VPC Flow Logs for Network Monitoring in AWS
