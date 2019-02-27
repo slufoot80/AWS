@@ -49,5 +49,6 @@ The labs listed below may be part of the Amazon Web Services Certified Solutions
  - Restore an RDS Instance to a Point in Time using Snapshots
  - Route 53 DNS Failover of Website from EC2 Instance to Static Website Hosted on S3
  - S3 Data Management with Versioning and Lifecycle Rules
+ - Security Grouips and Network ACL's
  - Using Custom CloudWatch Dashboards for Visual AWS Resource Monitoring
  - Working with EBS (Elastic Block Storage)
